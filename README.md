@@ -1,4 +1,4 @@
-# AzureLocalizandoServi-os
+# AzureLocalizandoServicos
 Repositório para descrever o conteúdo aprendido no Lab da DIO referente à iniciação do ambiente Azure
 
 Após criada a conta é possível já na home page verificar diversos serviços oferecidos pela Azure. A conta free ou trial pode ser limitada em determinados serviços ou regiões.
